@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: print z-a
+ * Description: print a - z inreverse
  *
  * .Return: Always 0 (Success)
 */
