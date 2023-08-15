@@ -18,7 +18,6 @@ int main(void)
 		putchar(digit + '0');
 		digit++;
 	}
-	printf("\n");
 
 	return (0);
 }
